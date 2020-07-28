@@ -31,4 +31,4 @@ writer：zzzcd0x
 matlab无法求解带参积分，所以将求解带参积分的过程改为了二分求解参数值，二分可以在远小于枚举的时间复杂度内求得不差于枚举的答案。
 # 下水咯
 
-!()[https://cdn.luogu.com.cn/upload/image_hosting/lsdbndwg.png]
+![](https://cdn.luogu.com.cn/upload/image_hosting/lsdbndwg.png)
