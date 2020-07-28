@@ -29,4 +29,6 @@ writer：zzzcd0x
 精筛会筛出较大量的数据，因此最终将结果输出到了excel方便查看和筛选。
 
 matlab无法求解带参积分，所以将求解带参积分的过程改为了二分求解参数值，二分可以在远小于枚举的时间复杂度内求得不差于枚举的答案。
+# 下水咯
 
+!()[https://cdn.luogu.com.cn/upload/image_hosting/lsdbndwg.png]
